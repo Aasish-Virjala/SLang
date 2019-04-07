@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">SLang</string>
+    <string name="toggle_camera">Toggle Camera</string>
+    <string name="detect_object">Detect Object</string>
+    <string name="title_activity_test">Test</string>
+    <string name="about_isl">
+    </string>
+</resources>
